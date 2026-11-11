@@ -1,0 +1,15 @@
+node_modules
+.next
+.next-dev
+.next*
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
+generated/prisma
+private-uploads
+out
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
